@@ -1,5 +1,5 @@
 # accountScanner
-This is used to know what social media account that an email have
+This python script is used to know what social media account that an email have
 
 how to use:
 
